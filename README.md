@@ -1,6 +1,6 @@
 # vim-colorscheme
 
-A simple Vim diff colorscheme
+A simple Vim diff colorscheme.
 
 Choose colors using the following reference:
 
